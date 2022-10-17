@@ -29,7 +29,7 @@ public class Village{
 	}
 	
 	public void main(String[] args){
-		Village village = new Village(nom="Village des irréductibles", 30);
+		Village village= new Village(nom="Village des irréductibles", 30);
 		
 	}
 
